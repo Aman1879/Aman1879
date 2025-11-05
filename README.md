@@ -1,37 +1,47 @@
-<h1 align="center">Hi, I'm Aman Kumar Singh 👋</h1>
+<div align="center" style="padding: 25px; border-radius: 15px; background: linear-gradient(90deg, #5f2c82, #49a09d); color: white;">
+  
+  <h1>Hi, I'm Aman Kumar Singh 👋</h1>
 
-<h3 align="center">Software Engineer | Full Stack Developer | Tech Enthusiast</h3>
+  <h3>Software Engineer | Full Stack Developer | Tech Enthusiast</h3>
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me  
+<table>
+<tr>
+<td width="60%">
 
 I'm Aman Kumar Singh, a 3rd-year Computer Science student and Full Stack Developer.  
 I enjoy building interactive web applications and exploring intelligent solutions.
 
 💡 *"Crafting logic and elegance in every line of code."*
 
+</td>
+
+<td>
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ### 🌐 Connect With Me
-
 <p align="left">
-<a href="https://www.linkedin.com/in/aman-kumar-singh-827631283/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:amanara13579@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Aman1879">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/aman-kumar-singh-827631283/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:amanara13579@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Aman1879"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 🛠️ Skills
 
-#### 💻 Programming Languages  
+#### 💻 Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -45,8 +55,7 @@ I enjoy building interactive web applications and exploring intelligent solution
 
 ---
 
-### 🧰 Tools & Technologies
-
+### 🧰 Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github)
@@ -70,4 +79,4 @@ I enjoy building interactive web applications and exploring intelligent solution
 
 ---
 
-⭐ **Thanks for visiting!** Feel free to explore my repositories 😊  
+⭐ **Thanks for visiting! Keep coding & stay creative 🚀**
